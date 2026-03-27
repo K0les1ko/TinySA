@@ -6,7 +6,7 @@ import re
 START_FREQ = 2_120_000
 STOP_FREQ = 2_140_000
 EXPECTED_POINTS = 250
-INPUT_FILE = "raw_tinysa_qp_dump.txt"
+INPUT_FILE = "raw_tinysa_calc_qp.txt"
 
 
 def plot_internal_qp():
